@@ -13,13 +13,13 @@
               </a>
             </div>
             <div class="body">
-              <h5 class="post-title"><a href="https://med.stanford.edu/">Stanford Medicine: Shaping Tomorrow's Health Headlines</a></h5>
+              <h5 class="post-title"><a href="https://www.thestar.com.my/news/nation/2024/02/16/tb-cases-rise-by-over-5-last-year">TB cases rise by over 5% last year</a></h5>
               <div class="site-info">
                 <div class="avatar mr-2">
                   <div class="avatar-img">
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFrhqme4uZQt9NsICacufxfwXDZll61B9i474rSNN4pA&s" alt="">
+                    <img src="https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png" alt="logo">
                   </div>
-                  <span>Standford Medicine</span>
+                  <span>The Star News</span>
                 </div>
                 <span class="mai-time"></span> 1 week ago
               </div>

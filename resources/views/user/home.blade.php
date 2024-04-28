@@ -8,7 +8,7 @@
 
   <meta name="copyright" content="MACode ID, https://macodeid.com/">
 
-  <title>One Health - Medical Center HTML5 Template</title>
+  <title>Lively-My</title>
 
   <link rel="stylesheet" href="../assets/css/maicons.css">
 
@@ -31,9 +31,9 @@
         <div class="row">
           <div class="col-sm-8 text-sm">
             <div class="site-info">
-              <a href="#"><span class="mai-call text-primary"></span> +00 123 4455 6666</a>
+              <a href="#"><span class="mai-call text-primary"></span> +60 3-1234 6000</a>
               <span class="divider">|</span>
-              <a href="#"><span class="mai-mail text-primary"></span> mail@example.com</a>
+              <a href="#"><span class="mai-mail text-primary"></span> info@livelymy.com</a>
             </div>
           </div>
           <div class="col-sm-4 text-right text-sm">
@@ -50,7 +50,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-light shadow-sm">
       <div class="container">
-        <a class="navbar-brand" href="{{url('/')}}"><span class="text-primary">One</span>-Health</a>
+        <a class="navbar-brand" href="{{url('/')}}"><span class="text-primary">Lively</span>-My</a>
 
         <form action="#">
           <div class="input-group input-navbar">
@@ -144,7 +144,7 @@
       <div class="container text-center wow zoomIn">
         <span class="subhead">Let's make your life happier</span>
         <h1 class="display-4">Healthy Living</h1>
-        <a href="#consult" onclick="scrollToConsult()" class="btn btn-primary" >Let's Consult</a>
+        <a href="#consult" onclick="scrollToConsult()" class="btn btn-primary" >Let's Talk and Fight TB</a>
       </div>
     </div>
   </div>
@@ -159,7 +159,7 @@
               <div class="circle-shape bg-secondary text-white">
                 <span class="mai-chatbubbles-outline"></span>
               </div>
-              <p><span>Chat</span> with a doctors</p>
+              <p><span>Chat</span> with a doctor</p>
             </div>
           </div>
           <div class="col-md-4 py-3 py-md-0">
@@ -186,9 +186,9 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-6 py-3 wow fadeInUp">
-            <h1 id="about">Welcome to Your Health <br> Center</h1>
-            <p class="text-grey mb-4" >Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Accusantium aperiam earum ipsa eius, inventore nemo labore eaque porro consequatur ex aspernatur. Explicabo, excepturi accusantium! Placeat voluptates esse ut optio facilis!</p>
-            
+            <h1 id="about">Welcome to Lively-My <br> Center</h1>
+            <p class="text-grey mb-4" >
+            Tuberculosis, often abbreviated as TB, is an infectious disease caused by the bacterium Mycobacterium tuberculosis. It primarily affects the lungs but can also target other parts of the body such as the kidneys, spine, and brain. TB spreads through the air when an infected person coughs or sneezes, releasing tiny droplets containing the bacteria. TB remains a significant global health concern, particularly in regions with limited access to healthcare resources and poor living conditions. Efforts to control tuberculosis include vaccination (with the Bacillus Calmette-Guérin vaccine), early detection through testing, and improved healthcare infrastructure. Lively-My aims to help the people fight Tuberculosis. </p>
           </div>
           <div class="col-lg-6 wow fadeInRight" data-wow-delay="400ms">
             <div class="img-place custom-img-1">
@@ -215,9 +215,7 @@
           <h5>Company</h5>
           <ul class="footer-menu">
             <li><a href="#">About Us</a></li>
-            <li><a href="#">Career</a></li>
-            <li><a href="#">Editorial Team</a></li>
-            <li><a href="#">Protection</a></li>
+            <li><a href="#">Tuberculosis</a></li>
           </ul>
         </div>
         <div class="col-sm-6 col-lg-3 py-3">
@@ -225,23 +223,22 @@
           <ul class="footer-menu">
             <li><a href="#">Terms & Condition</a></li>
             <li><a href="#">Privacy</a></li>
-            <li><a href="#">Advertise</a></li>
             <li><a href="#">Join as Doctors</a></li>
           </ul>
         </div>
         <div class="col-sm-6 col-lg-3 py-3">
-          <h5>Our partner</h5>
+          <h5>Our partners</h5>
           <ul class="footer-menu">
-            <li><a href="#">One-Fitness</a></li>
-            <li><a href="#">One-Drugs</a></li>
-            <li><a href="#">One-Live</a></li>
+            <li><a href="#">One-Vaccination</a></li>
+            <li><a href="#">One-Pharmacy</a></li>
+            <li><a href="#">One-Live-Malaysia</a></li>
           </ul>
         </div>
         <div class="col-sm-6 col-lg-3 py-3">
           <h5 id="contact">Contact</h5>
-          <p class="footer-link mt-2">351 Willow Street Franklin, MA 02038</p>
-          <a href="#" class="footer-link">701-573-7582</a>
-          <a href="#" class="footer-link">healthcare@temporary.net</a>
+          <p class="footer-link mt-2">Subang Jaya, Selangor, Malaysia</p>
+          <a href="#" class="footer-link">+ 60 3-1234 6000</a>
+          <a href="#" class="footer-link">infoatlivelymy@livelymy.com</a>
 
           <h5 class="mt-3">Social Media</h5>
           <div class="footer-sosmed mt-3">
